@@ -5,13 +5,12 @@ Dockerfile to build an Ubuntu v14.04 base image for Docker containers. This imag
 ## Table of Contents
 
 - [Version](#version)
-- [Installation](#installation)
 - [How To Use](#how-to-use)
 - [Credit](#credit)
 
 ## Version
 
-The current release (v14.04.20140911) contains scripts to install Ubuntu 14.04 LTS (Trust Tahr), and uses the [official Ubuntu base image](https://registry.hub.docker.com/_/ubuntu/). Our version numbers will reflect the version of Ubuntu being installed.
+The current release (v14.04.20140911) contains scripts to install Ubuntu 14.04 LTS (Trusty Tahr), and uses the [official Ubuntu base image](https://registry.hub.docker.com/_/ubuntu/). Our version numbers will reflect the version of Ubuntu being installed.
 
 ## How To Use
 
